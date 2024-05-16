@@ -1,1 +1,1 @@
-# COMP472_A2
+# Word Embeddings Experiment: Advancing Synonym Recognition
